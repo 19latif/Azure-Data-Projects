@@ -1,0 +1,9 @@
+{
+	"name": "ETLProjectsOne",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02c3dfe4-c8d9-40e4-90ad-e2c1bd23c235",
+		"tenantId": "ef350f96-c962-4cb3-abad-5a3a022c948f"
+	}
+}
